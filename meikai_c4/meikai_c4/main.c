@@ -262,6 +262,33 @@ int main(void) {
         }
         putchar('\n');
     }
+//    
+//    int ln;
+//    printf("奇数：");
+//    scanf("%d", &ln);
+//    int half = ln/2 + 1;
+//    for (int i = 1; i <= half; i++) {
+//        for (int j = 1; j <= ln; j++) {
+//            if (j == half + (i-1) || j == half - (i - 1)) {
+//                putchar('*');
+//            }
+//            else {
+//                putchar(' ');
+//            }
+//        }
+//        putchar('\n');
+//    }
+//    for (int i = half-1; i >= 1; i--) {
+//        for (int j = 1; j <= ln; j++) {
+//            if (j == half + (i-1) || j == half - (i - 1)) {
+//                putchar('*');
+//            }
+//            else {
+//                putchar(' ');
+//            }
+//        }
+//        putchar('\n');
+//    }
     return (0);
     
 }
