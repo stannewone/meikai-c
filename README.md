@@ -1,11 +1,8 @@
 # meikai-c
 
-This is a repository where I keep my C language exercises.    
-For the exam next year, I decided to start learning C language from now on.    
+This is a repository where I keep my basic C language exercises.    
+   
 I use a Japanese book for the new start, and to know the basis.    
-I will keep all the exercises here in convinience.   
- 
-I hope I can get well with Japanese programming.
 
 For the record, these are chapters I've already done.
 
